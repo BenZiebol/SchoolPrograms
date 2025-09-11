@@ -1,2 +1,0 @@
-Grade: 30/30  
-Comments: You might have found it a bit easier to create a list that contains the average colors and just assigned the different places in new_matrix to that list rather than assigning each average color individually.
